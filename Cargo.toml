@@ -1,0 +1,9 @@
+[package]
+name = "somethinggoingwrong"
+version = "0.1.0"
+authors = ["André-Patrick Bubel <code@andre-bubel.de>"]
+license = "CC0"
+
+[dependencies]
+image = "0.10"
+piston2d-glium_graphics = "0.19"
